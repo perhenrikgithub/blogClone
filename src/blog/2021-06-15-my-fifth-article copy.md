@@ -1,5 +1,5 @@
 ---
-title: Yet another article
+title: Yet another Article
 author: Kevin Powell
 image: /assets/blog/article-5.jpg
 imageAlt: This is a test
