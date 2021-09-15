@@ -13,6 +13,8 @@ imageAlt: Dette vil være bildeteksten
 ---
 ## En overskrift
 
+<https://www.vg.no/nyheter/innenriks/i/rEn560/politiet-om-dna-funnet-i-tengs-saken-en-sterk-indikasjon>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id leo in vitae turpis massa. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Ornare aenean euismod elementum nisi quis eleifend. Amet tellus cras adipiscing enim eu turpis. Nisi vitae suscipit tellus mauris. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Mi eget mauris pharetra et. Et tortor at risus viverra. 
 
 ## En overskrift
